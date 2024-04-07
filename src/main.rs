@@ -1,13 +1,23 @@
-use colored::*;
-use rayon::prelude::*;
-use sha2::{Digest, Sha256};
-use std::collections::HashMap;
-use std::fs::File;
-use std::io::Write;
-use std::io::{self, Read};
-use std::path::PathBuf;
-use std::sync::Mutex;
-use walkdir::{DirEntry, WalkDir};
+use colored::*; // Allows for coloring console output for better readability.
+use rayon::prelude::*; // Enables data parallelism for efficient processing.
+use sha2::{Digest, Sha256}; // Provides the SHA-256 hashing algorithm.
+use std::collections::HashMap; // A collection type for storing unique hash map of files.
+use std::fs::File; // Enables reading from and writing to files.
+use std::io::Write; // Trait that allows writing to I/O streams.
+use std::io::{self, Read}; // Traits for reading from I/O streams.
+use std::path::PathBuf; // Represents filesystem paths in a cross-platform manner.
+use std::sync::Mutex; // Provides a mutual exclusion lock for safely sharing data between threads.
+use walkdir::{DirEntry, WalkDir}; // Enables recursive directory walking.
+
+/// Checks if a directory contains no subdirectories, only files.
+///
+/// # Arguments
+///
+/// * `entry` - A directory entry from `walkdir`.
+///
+/// # Returns
+///
+/// True if the directory is a leaf (contains no subdirectories), false otherwise.
 fn is_leaf_directory(entry: &DirEntry) -> bool {
     WalkDir::new(entry.path())
         .min_depth(1)
@@ -16,6 +26,15 @@ fn is_leaf_directory(entry: &DirEntry) -> bool {
         .all(|e| e.unwrap().file_type().is_file())
 }
 
+/// Computes the SHA-256 hash of a file's contents.
+///
+/// # Arguments
+///
+/// * `path` - The path to the file.
+///
+/// # Returns
+///
+/// A `Result` which is either the hex-encoded hash string or an I/O error.
 fn hash_file(path: &PathBuf) -> io::Result<String> {
     let mut file = File::open(path)?;
     let mut hasher = Sha256::new();
@@ -25,6 +44,15 @@ fn hash_file(path: &PathBuf) -> io::Result<String> {
     Ok(format!("{:x}", hasher.finalize()))
 }
 
+/// Finds duplicate files within a directory by computing and comparing file hashes.
+///
+/// # Arguments
+///
+/// * `directory` - The path to the directory to search for duplicates in.
+///
+/// # Returns
+///
+/// A `Result` containing a hash map of file hashes to vectors of paths of files with that hash, or an I/O error.
 fn find_duplicates_in_directory(directory: &PathBuf) -> io::Result<HashMap<String, Vec<PathBuf>>> {
     let duplicates = Mutex::new(HashMap::new());
 
@@ -51,7 +79,18 @@ fn find_duplicates_in_directory(directory: &PathBuf) -> io::Result<HashMap<Strin
     Ok(duplicates.into_inner().unwrap())
 }
 
+/// Scans directories starting from a root directory for duplicate files, logging findings.
+///
+/// # Arguments
+///
+/// * `root_directory` - The root directory to start the scan from.
+/// * `log_file` - A mutable reference to the log file for writing log messages.
+///
+/// # Returns
+///
+/// A `Result` indicating success (`Ok`) or an error (`Err`).
 fn scan_directories(root_directory: PathBuf, log_file: &mut File) -> io::Result<()> {
+    // Convert the root directory PathBuf to a string slice for easier manipulation and comparison.
     let root_directory_str = root_directory.to_str().unwrap();
 
     for entry in WalkDir::new(&root_directory)
@@ -97,14 +136,20 @@ fn scan_directories(root_directory: PathBuf, log_file: &mut File) -> io::Result<
     Ok(())
 }
 
+/// The entry point of the application.
+///
+/// Initializes the scanning process and prepares the log file.
 fn main() -> io::Result<()> {
+    // Define the root directory to scan and the path to the log file.
     let root_directory = PathBuf::from(
         r"M:\Music Production\Ableton Library\Samples\SAMPLE PACKS\DOWNLOADED PACKS\",
     );
     let log_file_path = "scan_log.txt";
 
+    // Create or truncate the log file.
     let mut log_file = File::create(log_file_path)?;
 
+    // Log the start of the scanning process.
     writeln!(
         log_file,
         "Starting to scan in rootDirectory: {:?}",
@@ -112,6 +157,7 @@ fn main() -> io::Result<()> {
     )?;
     println!("Starting to scan in rootDirectory: {:?}", root_directory);
 
+    // Begin scanning directories for duplicates, logging the findings.
     scan_directories(root_directory, &mut log_file)?;
     Ok(())
 }
