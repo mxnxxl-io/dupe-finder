@@ -1,0 +1,872 @@
+Starting to scan in rootDirectory: "M:\\Music Production\\Ableton Library\\Samples\\SAMPLE PACKS\\DOWNLOADED PACKS\\"
+Starting to scan in: Abletunes 808\Ableton Folder Info
+Starting to scan in: Amen\Ableton Folder Info
+Starting to scan in: Beats24-7.com - Craddy Music - Knights Of Trap Drum Kit V1\808's (Heavy)\Ableton Folder Info
+Starting to scan in: Beats24-7.com - Craddy Music - Knights Of Trap Drum Kit V1\Claps (Dry)
+Starting to scan in: Beats24-7.com - Craddy Music - Knights Of Trap Drum Kit V1\Hi Hats (Closed x Open)\Ableton Folder Info
+Starting to scan in: Beats24-7.com - Craddy Music - Knights Of Trap Drum Kit V1\Kicks (Punchy)\Ableton Folder Info
+Starting to scan in: Beats24-7.com - Craddy Music - Knights Of Trap Drum Kit V1\Melody Loops (BONUS)\Ableton Folder Info
+Starting to scan in: Beats24-7.com - Craddy Music - Knights Of Trap Drum Kit V1\Percs (Misc)
+Starting to scan in: Beats24-7.com - Craddy Music - Knights Of Trap Drum Kit V1\Snares (Dry)
+Starting to scan in: Beats24-7.com - Craddy Music - Knights Of Trap Drum Kit V1\Vox (Misc)
+Starting to scan in: Bedford Rascal Sample Library\One Shots\Dry One Shots wav\Ableton Folder Info
+Starting to scan in: Bedford Rascal Sample Library\One Shots\One Shots wav\Ableton Folder Info
+Starting to scan in: Black Octopus Sound Leviathan 3\Bass - Loops
+Starting to scan in: Black Octopus Sound Leviathan 3\Bass - One Shots\Ableton Folder Info
+Starting to scan in: Black Octopus Sound Leviathan 3\Bass - Sub Hits\Ableton Folder Info
+Starting to scan in: Black Octopus Sound Leviathan 3\Bass - Sustained
+Starting to scan in: Black Octopus Sound Leviathan 3\Drums - Claps\Ableton Folder Info
+Starting to scan in: Black Octopus Sound Leviathan 3\Drums - Claps\Shifted\Ableton Folder Info
+Starting to scan in: Black Octopus Sound Leviathan 3\Drums - Crash & Ride Cymbals\Crash\Ableton Folder Info
+Starting to scan in: Black Octopus Sound Leviathan 3\Drums - Crash & Ride Cymbals\Rides\Ableton Folder Info
+Starting to scan in: Black Octopus Sound Leviathan 3\Drums - Drum Loops\Ableton Folder Info
+Starting to scan in: Black Octopus Sound Leviathan 3\Drums - Fills & Builds\Ableton Folder Info
+Starting to scan in: Black Octopus Sound Leviathan 3\Drums - Hi Hat One Shots\Closed
+Starting to scan in: Black Octopus Sound Leviathan 3\Drums - Hi Hat One Shots\Open
+Starting to scan in: Black Octopus Sound Leviathan 3\Drums - Kicks\Ableton Folder Info
+Starting to scan in: Black Octopus Sound Leviathan 3\Drums - Percussion Loops
+Starting to scan in: Black Octopus Sound Leviathan 3\Drums - Percussion One Shots\Electronic
+Starting to scan in: Black Octopus Sound Leviathan 3\Drums - Percussion One Shots\Organic\Ableton Folder Info
+Starting to scan in: Black Octopus Sound Leviathan 3\Drums - Percussion One Shots\Shaker\Ableton Folder Info
+Starting to scan in: Black Octopus Sound Leviathan 3\Drums - Percussion One Shots\World
+Starting to scan in: Black Octopus Sound Leviathan 3\Drums - Shaker Loops\Ableton Folder Info
+Starting to scan in: Black Octopus Sound Leviathan 3\Drums - Snares\Ableton Folder Info
+Starting to scan in: Black Octopus Sound Leviathan 3\Drums - Toms
+Duplicates: Black Octopus Sound Leviathan 3\Drums - Toms\Lev3_Tom_Mid_11.wav AND Black Octopus Sound Leviathan 3\Drums - Toms\Lev3_Tom_Mid_17.wav
+Starting to scan in: Black Octopus Sound Leviathan 3\Drums - Toploops & Hi Hat Loops
+Starting to scan in: Black Octopus Sound Leviathan 3\FX - Atmospheres\Ableton Folder Info
+Starting to scan in: Black Octopus Sound Leviathan 3\FX - Fallers\Ableton Folder Info
+Starting to scan in: Black Octopus Sound Leviathan 3\FX - Glitch\Ableton Folder Info
+Starting to scan in: Black Octopus Sound Leviathan 3\FX - Impacts\Ableton Folder Info
+Starting to scan in: Black Octopus Sound Leviathan 3\FX - Reverse
+Starting to scan in: Black Octopus Sound Leviathan 3\FX - Risers
+Starting to scan in: Black Octopus Sound Leviathan 3\FX - Short\Ableton Folder Info
+Starting to scan in: Black Octopus Sound Leviathan 3\FX - Tonal\Ableton Folder Info
+Starting to scan in: Black Octopus Sound Leviathan 3\MIDI
+Starting to scan in: Black Octopus Sound Leviathan 3\Music Loops\Ableton Folder Info
+Starting to scan in: Black Octopus Sound Leviathan 3\Serum Presets
+Starting to scan in: Black Octopus Sound Leviathan 3\Synth - Chords
+Starting to scan in: Black Octopus Sound Leviathan 3\Synth - One Shots
+Starting to scan in: Black Octopus Sound Leviathan 3\Vocals - Loops
+Starting to scan in: Black Octopus Sound Leviathan 3\Vocals - One Shots
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 1\Bassdrums\Ableton Folder Info
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 1\HALF THE KIT\Bass Drums
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 1\HALF THE KIT\Hats
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 1\HALF THE KIT\Kicks
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 1\HALF THE KIT\Open High Hat and Toms and Shakers
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 1\HALF THE KIT\Snares
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 1\Hi-Hats
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 1\High Hats 2\Open Hi-Hats
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 1\High Hats 2\Real Hi-Hats
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 1\High Hats 2\Shakers\Hi-Hat-Loops
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 1\Kicks
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 1\Open Hi-Hats
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 1\SB 2011 KIT\SB HATS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 1\SB 2011 KIT\SB KICKS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 1\SB 2011 KIT\SB SNARES
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 1\Shakers
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 1\Snares\Ableton Folder Info
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 1\Snares 2
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 10\BASS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 10\BONUS BREAKS AND SAMPLES
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 10\BUILT DRUM LOOPS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 10\HATS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 10\KICKS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 10\SAMPLES
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 10\SNARES
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 2\12 DRUM BREAKS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 2\130 KICKS\KICKS 1
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 2\130 KICKS\KICKS 2
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 2\130 KICKS\KICKS 3
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 2\130 KICKS\sb bd
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 2\130 KICKS\sb bd 2
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 2\155 SNARES\SNARES 1
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 2\155 SNARES\SNARES 2
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 2\155 SNARES\SNARES 3
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 2\200 HIGH HATS\HIGH HATS 1
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 2\200 HIGH HATS\HIGH HATS 2\Single Shots\Closed
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 2\200 HIGH HATS\HIGH HATS 2\Single Shots\Half-open
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 2\200 HIGH HATS\HIGH HATS 2\Single Shots\High Velocity
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 2\200 HIGH HATS\HIGH HATS 2\Single Shots\Low Velocity
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 2\200 HIGH HATS\HIGH HATS 2\Single Shots\Medium Velocity
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 2\200 HIGH HATS\HIGH HATS 2\Single Shots\Open
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 2\200 HIGH HATS\HIGH HATS 2\Single Shots\Ride Like
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 2\200 HIGH HATS\HIGH HATS 2\Single Shots\Wide Open
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 2\200 HIGH HATS\HIGH HATS 3
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 2\65 BASS SOUNDS\Basstones
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 2\65 BASS SOUNDS\DIRTY BASSES
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 3\DRUM BREAKS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 3\DRUM LOOPS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 3\HATS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 3\KICKS
+Duplicates: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 3\KICKS\KRACK .wav AND Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 3\KICKS\LOW END.wav AND Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 3\KICKS\THMUMPIN.wav
+Duplicates: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 3\KICKS\BUMP.wav AND Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 3\KICKS\KICK EM.wav
+Duplicates: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 3\KICKS\GOAL.wav AND Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 3\KICKS\KICK OCHO.wav
+Duplicates: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 3\KICKS\BAMP.wav AND Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 3\KICKS\KNOCK.wav AND Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 3\KICKS\THUMP.wav AND Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 3\KICKS\STANKYKICK.wav AND Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 3\KICKS\UMPHKICK.wav
+Duplicates: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 3\KICKS\SCORE.wav AND Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 3\KICKS\KICK SEIS.wav
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 3\SAMPLES
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 3\SNARES
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 4\BREAKS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 4\BUILT DRUM LOOPS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 4\EXTRA SAMPLES
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 4\KICKS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 4\PERCUSSION_
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 4\SAMPLES
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 4\SNARES
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 5\BREAKS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 5\BUILT DRUM LOOPS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 5\KICKS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 5\SAMPLES
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 5\SNARES
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 6\BUILT DRUM LOOPS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 6\DRUM BREAKS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 6\SAMPLES
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 6\SINGLE HITS\HATS AND PERCUSSION\CRASHES
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 6\SINGLE HITS\HATS AND PERCUSSION\OPEN HATS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 6\SINGLE HITS\HATS AND PERCUSSION\RANDOMS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 6\SINGLE HITS\KICKS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 6\SINGLE HITS\SNARES
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 7\BONUS SAMPLES
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 7\BREAKS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 7\BUILT DRUM LOOPS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 7\KICKS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 7\SAMPLES
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 7\SNARES
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 8\BASS STABS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 8\BONUS SAMPLES AND BREAKS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 8\BREAKS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 8\BUILT DRUM LOOPS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 8\HATS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 8\KICKS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 8\SAMPLES
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 8\SNARES
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 9\BASS STABS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 9\BONUS SAMPLES AND BREAKS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 9\BREAKS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 9\DRUM LOOPS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 9\KICKS
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 9\SAMPLES
+Starting to scan in: Brutal Music Store - Brutal Drums Collection 1-10\Stu Bangas - Brutal Drums 9\SNARES
+Starting to scan in: Capshun Oni Sample Pack\CAPSHUN_drums\CAPSHUN_808s\Ableton Folder Info
+Starting to scan in: Capshun Oni Sample Pack\CAPSHUN_drums\CAPSHUN_fills
+Starting to scan in: Capshun Oni Sample Pack\CAPSHUN_drums\CAPSHUN_hihats
+Starting to scan in: Capshun Oni Sample Pack\CAPSHUN_drums\CAPSHUN_kicks\Ableton Folder Info
+Starting to scan in: Capshun Oni Sample Pack\CAPSHUN_drums\CAPSHUN_loops\Ableton Folder Info
+Starting to scan in: Capshun Oni Sample Pack\CAPSHUN_drums\CAPSHUN_percussion
+Starting to scan in: Capshun Oni Sample Pack\CAPSHUN_drums\CAPSHUN_snares\Ableton Folder Info
+Starting to scan in: Capshun Oni Sample Pack\CAPSHUN_drums\CAPSHUN_stomps
+Starting to scan in: Capshun Oni Sample Pack\CAPSHUN_field_recordings
+Starting to scan in: Capshun Oni Sample Pack\CAPSHUN_fx\Ableton Folder Info
+Starting to scan in: Capshun Oni Sample Pack\CAPSHUN_stems\Ableton Folder Info
+Starting to scan in: Capshun Oni Sample Pack\CAPSHUN_tonal\CAPSHUN_tonal_loops\Ableton Folder Info
+Starting to scan in: Capshun Oni Sample Pack\CAPSHUN_tonal\CAPSHUN_tonal_one_shots
+Starting to scan in: Capshun Oni Sample Pack\CAPSHUN_vocals
+Starting to scan in: Certified Trap Star Kit (Hipstrumentals.com)\Bell\Ableton Folder Info
+Starting to scan in: Certified Trap Star Kit (Hipstrumentals.com)\Brass Loops
+Starting to scan in: Certified Trap Star Kit (Hipstrumentals.com)\Brass(1hitsounds)
+Starting to scan in: Certified Trap Star Kit (Hipstrumentals.com)\Drum Kit\Fxs
+Duplicates: Certified Trap Star Kit (Hipstrumentals.com)\Drum Kit\Fxs\FX10.wav AND Certified Trap Star Kit (Hipstrumentals.com)\Drum Kit\Fxs\FX2.wav
+Duplicates: Certified Trap Star Kit (Hipstrumentals.com)\Drum Kit\Fxs\FX2.wav.asd AND Certified Trap Star Kit (Hipstrumentals.com)\Drum Kit\Fxs\FX10.wav.asd
+Starting to scan in: Certified Trap Star Kit (Hipstrumentals.com)\Drum Kit\Kicks\Ableton Folder Info
+Starting to scan in: Certified Trap Star Kit (Hipstrumentals.com)\Drum Kit\Percs
+Starting to scan in: Certified Trap Star Kit (Hipstrumentals.com)\Drum Kit\Snares & Claps
+Starting to scan in: Certified Trap Star Kit (Hipstrumentals.com)\SoundFonts
+Starting to scan in: Certified Trap Star Kit (Hipstrumentals.com)\Synth Loops
+Starting to scan in: Certified Trap Star Kit (Hipstrumentals.com)\Whistle Loops
+Starting to scan in: Cobra Drum Kit\Drum Kit\Ableton Folder Info
+Starting to scan in: Cobra Drum Kit\Loops (95 Bpm)\Ableton Folder Info
+Starting to scan in: Coffee Shop Loop Kit\Blanket - C Major 92 BPM\Ableton Folder Info
+Starting to scan in: Coffee Shop Loop Kit\Febuary - 78 BPM\Ableton Folder Info
+Starting to scan in: Coffee Shop Loop Kit\Foggy Dreams - C Major 85 BPM
+Duplicates: Coffee Shop Loop Kit\Foggy Dreams - C Major 85 BPM\Foggy Dreams - C Major 85 BPM Epiano.wav AND Coffee Shop Loop Kit\Foggy Dreams - C Major 85 BPM\Foggy Dreams - C Major 85 BPM Epiano .wav
+Starting to scan in: Coffee Shop Loop Kit\Groovy Vynil - 94 BPM\Ableton Folder Info
+Starting to scan in: Coffee Shop Loop Kit\Hot Pot Coffee - C# Major 85 BPM
+Starting to scan in: Coffee Shop Loop Kit\Pine Cones - 87 BPM\Ableton Folder Info
+Starting to scan in: Coffee Shop Loop Kit\Simple Things - 94 BPM\Ableton Folder Info
+Starting to scan in: Coffee Shop Loop Kit\Train Station - C Major 103 BPM
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\808's\Ableton Folder Info
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Chant's
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Clap's\Ableton Folder Info
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Crashes's\Ableton Folder Info
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Cymbal's
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Fx's
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Hi-hat's\Ableton Folder Info
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Hi-hat's\Hi-hat Loops\Ableton Folder Info
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Hi-hat's\Live Hi-hat Loops\Ableton Folder Info
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Hi-hat's\Live Hi-hats\Ableton Folder Info
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Hit's
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Kick's\Ableton Folder Info
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Nexus Expansion's (Don't be alarmed if some dont work)\Nexus Expansions\2016 Nexus Trap Expansion\2016 Nexus Trap Expansion
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Nexus Expansion's (Don't be alarmed if some dont work)\Nexus Expansions\808 Mafia Nexus Xps\808 Mafia Nexus Xps\808 guitars
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Nexus Expansion's (Don't be alarmed if some dont work)\Nexus Expansions\808 Mafia Nexus Xps\808 Mafia Nexus Xps\808 Mafia Shyt
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Nexus Expansion's (Don't be alarmed if some dont work)\Nexus Expansions\Beats- Nexus Expansion Vol. 1
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Nexus Expansion's (Don't be alarmed if some dont work)\Nexus Expansions\Big Orchestra Nexus Expansion
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Nexus Expansion's (Don't be alarmed if some dont work)\Nexus Expansions\Blow A Bag Xp Vol.1\Blow A Bag Xp Vol.1
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Nexus Expansion's (Don't be alarmed if some dont work)\Nexus Expansions\C-Ram Beats Straight From The Trap Nexus V1 -@crambeatz
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Nexus Expansion's (Don't be alarmed if some dont work)\Nexus Expansions\C-Ram Beats Straight From The Trap Nexus V2 -@crambeatz
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Nexus Expansion's (Don't be alarmed if some dont work)\Nexus Expansions\Gold Bricks Nexus XP\Gold Bricks Nexus XP\Traj Hardie-Gold Bricks
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Nexus Expansion's (Don't be alarmed if some dont work)\Nexus Expansions\HalloweenTrap Expansion - BadRabbiit
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Nexus Expansion's (Don't be alarmed if some dont work)\Nexus Expansions\London On Da Track  Nexus Expansion
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Nexus Expansion's (Don't be alarmed if some dont work)\Nexus Expansions\Los CJ - Nice Keys XP\Los CJ - Nice Keys XP\+LCJ Nice Keys XP
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Nexus Expansion's (Don't be alarmed if some dont work)\Nexus Expansions\Straight From The Trap XP Vol. 3\Straight From The Trap XP Vol. 3
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Nexus Expansion's (Don't be alarmed if some dont work)\Nexus Expansions\Trap Bangerz Nexus XP\Trap Bangerz Nexus XP
+Duplicates: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Nexus Expansion's (Don't be alarmed if some dont work)\Nexus Expansions\Trap Bangerz Nexus XP\Trap Bangerz Nexus XP\KingPin Synth.fxp AND Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Nexus Expansion's (Don't be alarmed if some dont work)\Nexus Expansions\Trap Bangerz Nexus XP\Trap Bangerz Nexus XP\Cartel Lead.fxp
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Nexus Expansion's (Don't be alarmed if some dont work)\Nexus Expansions\Trap Kid Nexus XP\Trap Kid Nexus XP
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Nexus Expansion's (Don't be alarmed if some dont work)\Nexus Expansions\Trap Life Nexus Expansion\Trap Life Nexus Expansion
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Nexus Expansion's (Don't be alarmed if some dont work)\Nexus Expansions\Trap Luv Nexus XP\Trap Luv Nexus XP
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Nexus Expansion's (Don't be alarmed if some dont work)\Nexus Expansions\Trap Or Die Nexus Expansion
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Nexus Expansion's (Don't be alarmed if some dont work)\Nexus Expansions\Trapademic Nexus XP\TrapademiczNexus XP\Presets
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Nexus Expansion's (Don't be alarmed if some dont work)\Nexus Expansions\YL-ON-DEM-808s-Nexus-XP-Vol.1\YL ON DEM 808s XP Vol.1
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Open hat's\Ableton Folder Info
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Perc's\Perc loop's
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Presets\Travis Scotts Presets (For Vocals)\Travis Scotts Presets\3500
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Presets\Travis Scotts Presets (For Vocals)\Travis Scotts Presets\DUST
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Presets\Travis Scotts Presets (For Vocals)\Travis Scotts Presets\Skyfall
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Reese Bass
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Riser's & Transition's
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Sample's\Always Happens 140bpm\Ableton Folder Info
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Sample's\Bad Boy 97bpm\Ableton Folder Info
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Sample's\Love Life 130bpm\Ableton Folder Info
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Sample's\Times Has Changed 95bpm\Ableton Folder Info
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 1\Snare's\Ableton Folder Info
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 2\808's\Ableton Folder Info
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 2\Claps\Ableton Folder Info
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 2\Drum Fills
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 2\Fx
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 2\Hi-Hats\Ableton Folder Info
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 2\Kicks\Ableton Folder Info
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 2\Loops (Custom made by COSMIC)\Drum Loops
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 2\Loops (Custom made by COSMIC)\Hi-Hat Loops\Ableton Folder Info
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 2\Loops (Custom made by COSMIC)\Melody Loops\BackYard (160 BPM)
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 2\Loops (Custom made by COSMIC)\Melody Loops\Beethoven Bihhh (65 BPM) s.o BNJMN for the keys
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 2\Loops (Custom made by COSMIC)\Melody Loops\Colosseum (125 BPM)
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 2\Loops (Custom made by COSMIC)\Melody Loops\Keys Baby (140 BPM)
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 2\Loops (Custom made by COSMIC)\Melody Loops\Majic City (70 BPM)\Ableton Folder Info
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 2\Loops (Custom made by COSMIC)\Melody Loops\Mood (130 BPM)\Ableton Folder Info
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 2\Loops (Custom made by COSMIC)\Melody Loops\Samuri (150 BPM)
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 2\Loops (Custom made by COSMIC)\Melody Loops\Sloppy (146 BPM)\Ableton Folder Info
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 2\Loops (Custom made by COSMIC)\Melody Loops\Sunday (63 BPM)\Ableton Folder Info
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 2\Loops (Custom made by COSMIC)\Melody Loops\What the (140 BPM)
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 2\Nexus Expansion\Cold x Beats 500 Preset Nexus Expansion\Cold x Beats Nexus Expansion
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 2\Open-Hats\Ableton Folder Info
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 2\Percs
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 2\Reese Bass
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 2\Snares\Ableton Folder Info
+Starting to scan in: Cosmics Drum Kit Vol1&2\Cosmic's Drum Kit Vol. 2\Vox
+Starting to scan in: Cr2\Dark Acid Techno\Artwork
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Drum Hits\Hats
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Drum Hits\Kicks\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Drum Hits\Snares\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Drum Loops\Drum_Loops_Full_Loops
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Drum Loops\Drum_Loops_Hats
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Drum Loops\Drum_Loops_Kicks\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Drum Loops\Drum_Loops_Snares\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Full Loops\DAT_Chords_Loop_1_Wet_128_#A\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Full Loops\DAT_Chords_Loop_2_Wet_128_E\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Full Loops\DAT_Chords_Loop_3_Wet_130_G\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Full Loops\DAT_Chords_Loop_4_Wet_130_F\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Full Loops\DAT_Chords_Loop_5_Wet_130_#A\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Full Loops\DAT_Chords_Loop_6_Wet_130_F\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Full Loops\DAT_Chords_Loop_7_Wet_130_#D\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\FX\Atmospheres\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\FX\Noises\FX_Noises_Dry
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\FX\Noises\FX_Noises_Wet
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\FX\Snare Uplifters\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\FX\Sub FX
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\FX\White Noises
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_10_Wet_130_G\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_10_Wet_130_G\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_11_Wet_130_D\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_11_Wet_130_D\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_11_Wet_130_D\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_12_Wet_130_D\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_12_Wet_130_D\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_12_Wet_130_D\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_13_Wet_130_F\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_13_Wet_130_F\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_13_Wet_130_F\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_14_Wet_130_F\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_14_Wet_130_F\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_14_Wet_130_F\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_15_Wet_130_#A\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_15_Wet_130_#A\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_15_Wet_130_#A\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_16_Wet_134_A\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_16_Wet_134_A\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_16_Wet_134_A\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_17_Wet_136_G\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_17_Wet_136_G\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_17_Wet_136_G\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_18_Wet_132_A\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_18_Wet_132_A\Instruments_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_18_Wet_132_A\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_19_Wet_130_C\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_19_Wet_130_C\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_19_Wet_130_C\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_1_Wet_130_#A\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_1_Wet_130_#A\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_20_Wet_130_#D\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_20_Wet_130_#D\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_20_Wet_130_#D\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_21_Wet_130_G\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_21_Wet_130_G\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_21_Wet_130_G\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_22_Wet_130_#A\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_22_Wet_130_#A\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_22_Wet_130_#A\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_23_Wet_130_D\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_23_Wet_130_D\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_23_Wet_130_D\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_24_Wet_128_Dis\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_24_Wet_128_Dis\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_24_Wet_128_Dis\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_25_Wet_128_B\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_25_Wet_128_B\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_25_Wet_128_B\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_26_Wet_128_A\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_26_Wet_128_A\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_26_Wet_128_A\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_27_Wet_128_Fis\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_27_Wet_128_Fis\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_27_Wet_128_Fis\Midi
+Duplicates: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_27_Wet_128_Fis\Midi\DAT_Music_Loop_27_synth2_loop_Wet_128_Fis.mid AND Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_27_Wet_128_Fis\Midi\DAT_Music_Loop_27_synth3_loop_Wet_128_Fis.mid
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_28_Wet_128_F\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_28_Wet_128_F\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_28_Wet_128_F\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_29_Wet_128_D\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_29_Wet_128_D\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_29_Wet_128_D\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_2_Wet_130_#A\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_2_Wet_130_#A\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_30_Wet_128_Ais\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_30_Wet_128_Ais\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_30_Wet_128_Ais\Midi
+Duplicates: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_30_Wet_128_Ais\Midi\DAT_Music_Loop_30_synth3_loop_Wet_128_Ais.mid AND Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_30_Wet_128_Ais\Midi\DAT_Music_Loop_30_synth1_loop_Wet_128_Ais.mid
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_31_Wet_128_Fis\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_31_Wet_128_Fis\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_31_Wet_128_Fis\Midi
+Duplicates: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_31_Wet_128_Fis\Midi\DAT_Music_Loop_31_synth1_loop_Wet_128_Fis.mid AND Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_31_Wet_128_Fis\Midi\DAT_Music_Loop_31_synth3_loop_Wet_128_Fis.mid
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_32_Wet_128_Ais\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_32_Wet_128_Ais\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_32_Wet_128_Ais\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_33_Wet_128_Ais\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_33_Wet_128_Ais\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_33_Wet_128_Ais\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_34_Wet_128_Fis\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_34_Wet_128_Fis\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_34_Wet_128_Fis\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_35_Wet_128_Ais\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_35_Wet_128_Ais\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_35_Wet_128_Ais\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_36_Wet_128_C\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_36_Wet_128_C\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_36_Wet_128_C\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_37_Wet_128_Cis\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_37_Wet_128_Cis\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_37_Wet_128_Cis\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_38_Wet_128_C\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_38_Wet_128_C\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_38_Wet_128_C\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_39_Wet_128_Dis\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_39_Wet_128_Dis\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_39_Wet_128_Dis\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_3_Wet_130_D\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_3_Wet_130_D\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_40_Wet_128_C\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_40_Wet_128_C\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_40_Wet_128_C\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_41_Wet_128_Fis\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_41_Wet_128_Fis\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_41_Wet_128_Fis\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_42_Wet_128_Gis\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_42_Wet_128_Gis\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_42_Wet_128_Gis\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_43_Wet_128_D\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_43_Wet_128_D\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_43_Wet_128_D\Midi
+Duplicates: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_43_Wet_128_D\Midi\DAT_Music_Loop_43_synth1_loop_Wet_128_D.mid AND Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_43_Wet_128_D\Midi\DAT_Music_Loop_43_synth3_loop_Wet_128_D.mid
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_44_Wet_130_Dis\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_44_Wet_130_Dis\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_44_Wet_130_Dis\Midi
+Duplicates: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_44_Wet_130_Dis\Midi\DAT_Music_Loop_44_synth3_loop_Wet_130_Dis.mid AND Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_44_Wet_130_Dis\Midi\DAT_Music_Loop_44_synth2_loop_Wet_130_Dis.mid
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_45_Wet_130_Fis\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_45_Wet_130_Fis\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_45_Wet_130_Fis\Midi
+Duplicates: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_45_Wet_130_Fis\Midi\DAT_Music_Loop_45_synth2_loop_Wet_130_Fis.mid AND Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_45_Wet_130_Fis\Midi\DAT_Music_Loop_45_synth1_loop_Wet_130_Fis.mid
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_46_Wet_130_F\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_46_Wet_130_F\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_46_Wet_130_F\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_47_Wet_130_Dis\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_47_Wet_130_Dis\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_47_Wet_130_Dis\Midi
+Duplicates: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_47_Wet_130_Dis\Midi\DAT_Music_Loop_47_synth2_loop_Wet_130_Dis.mid AND Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_47_Wet_130_Dis\Midi\DAT_Music_Loop_47_synth3_loop_Wet_130_Dis.mid
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_48_Wet_130_C\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_48_Wet_130_C\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_48_Wet_130_C\Midi
+Duplicates: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_48_Wet_130_C\Midi\DAT_Music_Loop_48_synth2_loop_Wet_130_C.mid AND Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_48_Wet_130_C\Midi\DAT_Music_Loop_48_synth3_loop_Wet_130_C.mid
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_49_Wet_130_C\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_49_Wet_130_C\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_49_Wet_130_C\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_4_Wet_130_C\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_4_Wet_130_C\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_50_Wet_130_Gis\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_50_Wet_130_Gis\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_50_Wet_130_Gis\Midi
+Duplicates: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_50_Wet_130_Gis\Midi\DAT_Music_Loop_50_synth1_loop_Wet_130_Gis.mid AND Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_50_Wet_130_Gis\Midi\DAT_Music_Loop_50_synth3_loop_Wet_130_Gis.mid
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_51_Wet_130_B\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_51_Wet_130_B\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_51_Wet_130_B\Midi
+Duplicates: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_51_Wet_130_B\Midi\DAT_Music_Loop_51_synth1_loop_Wet_130_B.mid AND Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_51_Wet_130_B\Midi\DAT_Music_Loop_51_synth3_loop_Wet_130_B.mid
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_52_Wet_130_E\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_52_Wet_130_E\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_52_Wet_130_E\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_53_Wet_130_D\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_53_Wet_130_D\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_53_Wet_130_D\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_54_Wet_130_Fis\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_54_Wet_130_Fis\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_54_Wet_130_Fis\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_55_Wet_130_Ais\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_55_Wet_130_Ais\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_55_Wet_130_Ais\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_56_Wet_130_F\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_56_Wet_130_F\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_56_Wet_130_F\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_57_Wet_130_B\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_57_Wet_130_B\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_57_Wet_130_B\Midi
+Duplicates: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_57_Wet_130_B\Midi\DAT_Music_Loop_57_synth2_loop_Wet_130_B.mid AND Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_57_Wet_130_B\Midi\DAT_Music_Loop_57_synth1_loop_Wet_130_B.mid
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_58_Wet_130_Dis\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_58_Wet_130_Dis\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_58_Wet_130_Dis\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_59_Wet_130_F\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_59_Wet_130_F\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_59_Wet_130_F\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_5_Wet_130_F\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_5_Wet_130_F\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_60_Wet_130_F\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_60_Wet_130_F\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_60_Wet_130_F\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_6_Wet_130_#A\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_6_Wet_130_#A\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_7_Wet_130_D\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_7_Wet_130_D\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_8_Wet_130_E\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_8_Wet_130_E\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_9_Wet_130_E\Drum_Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Music Loops\DAT_Music_Loop_9_Wet_130_E\Instruments_Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Acid Pads Loops\Acid_Pad_Loop_1_Wet_128_D\MIDI
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Acid Pads Loops\Acid_Pad_Loop_2_Wet_128_F\MIDI
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Acid Pads Loops\Acid_Pad_Loop_3_Wet_128_#A\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Acid Pads Loops\Acid_Pad_Loop_4_Wet_128_#F\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Acid Pads Loops\Acid_Pad_Loop_5_Wet_128_#A\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Dramatic Pads Loops\Dramatic_Pad_Loop_10_Wet_130_C\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Dramatic Pads Loops\Dramatic_Pad_Loop_10_Wet_130_C\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Dramatic Pads Loops\Dramatic_Pad_Loop_1_Wet_130_#G\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Dramatic Pads Loops\Dramatic_Pad_Loop_1_Wet_130_#G\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Dramatic Pads Loops\Dramatic_Pad_Loop_2_Wet_130_#G\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Dramatic Pads Loops\Dramatic_Pad_Loop_2_Wet_130_#G\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Dramatic Pads Loops\Dramatic_Pad_Loop_3_Wet_130_F\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Dramatic Pads Loops\Dramatic_Pad_Loop_3_Wet_130_F\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Dramatic Pads Loops\Dramatic_Pad_Loop_4_Wet_130_G\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Dramatic Pads Loops\Dramatic_Pad_Loop_4_Wet_130_G\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Dramatic Pads Loops\Dramatic_Pad_Loop_5_Wet_130_E\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Dramatic Pads Loops\Dramatic_Pad_Loop_5_Wet_130_E\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Dramatic Pads Loops\Dramatic_Pad_Loop_6_Wet_130_#A\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Dramatic Pads Loops\Dramatic_Pad_Loop_6_Wet_130_#A\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Dramatic Pads Loops\Dramatic_Pad_Loop_7_Wet_130_B\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Dramatic Pads Loops\Dramatic_Pad_Loop_7_Wet_130_B\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Dramatic Pads Loops\Dramatic_Pad_Loop_8_Wet_130_C\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Dramatic Pads Loops\Dramatic_Pad_Loop_8_Wet_130_C\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Dramatic Pads Loops\Dramatic_Pad_Loop_9_Wet_130_A\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Dramatic Pads Loops\Dramatic_Pad_Loop_9_Wet_130_A\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_10_Wet_130_G\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_10_Wet_130_G\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_11_Wet_130_A\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_11_Wet_130_A\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_12_Wet_130_#F\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_12_Wet_130_#F\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_13_Wet_130_B\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_13_Wet_130_B\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_14_Wet_130_D\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_14_Wet_130_D\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_15_Wet_130_A\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_15_Wet_130_A\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_16_Wet_130_D\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_16_Wet_130_D\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_17_Wet_130_D\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_17_Wet_130_D\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_18_Wet_130_G\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_18_Wet_130_G\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_19_Wet_130_#F\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_19_Wet_130_#F\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_1_Wet_130_C\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_1_Wet_130_C\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_20_Wet_130_G\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_20_Wet_130_G\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_2_Wet_130_#A\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_2_Wet_130_#A\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_3_Wet_130_C\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_3_Wet_130_C\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_4_Wet_130_G\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_4_Wet_130_G\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_5_Wet_130_#A\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_5_Wet_130_#A\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_6_Wet_130_#D\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_6_Wet_130_#D\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_7_Wet_130_B\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_7_Wet_130_B\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_8_Wet_130_#A\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_8_Wet_130_#A\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_9_Wet_130_A\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Pads Loops\Epic Pads Loops\Epic_Pad_Loop_9_Wet_130_A\Midi
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Songstarters\Songstarter_1_128bpm_#G\MIDI
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Songstarters\Songstarter_1_128bpm_#G\One Shots
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Songstarters\Songstarter_1_128bpm_#G\Stems\Bass and Synth Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Songstarters\Songstarter_1_128bpm_#G\Stems\Drum Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Songstarters\Songstarter_2_130bpm_G\MIDI
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Songstarters\Songstarter_2_130bpm_G\One Shots
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Songstarters\Songstarter_2_130bpm_G\Stems\Bass and Synth Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Songstarters\Songstarter_2_130bpm_G\Stems\Drum Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Songstarters\Songstarter_3_130bpm_#F\MIDI
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Songstarters\Songstarter_3_130bpm_#F\One Shots
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Songstarters\Songstarter_3_130bpm_#F\Stems\Bass and Synth Stems
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Songstarters\Songstarter_3_130bpm_#F\Stems\Drum Stems\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Vocals\Vocals FX Loops\Dry
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Vocals\Vocals FX Loops\Wet
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Vocals\Vocals Words\Dry
+Starting to scan in: Cr2\Dark Acid Techno\Audio MIDI\Vocals\Vocals Words\Wet
+Starting to scan in: Cr2\Dark Acid Techno\Demo
+Starting to scan in: Cr2\Dark Acid Techno\EXTRAS
+Starting to scan in: Cr2\Dark Acid Techno 2\Artwork
+Starting to scan in: Cr2\Dark Acid Techno 2\Audio_MIDI\Bass Hits & Loops\Bass Hits
+Starting to scan in: Cr2\Dark Acid Techno 2\Audio_MIDI\Bass Hits & Loops\Bass Loops
+Starting to scan in: Cr2\Dark Acid Techno 2\Audio_MIDI\Bass Hits & Loops\Bass_MIDI
+Starting to scan in: Cr2\Dark Acid Techno 2\Audio_MIDI\Drum Hits\Claps\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno 2\Audio_MIDI\Drum Hits\Drum FX
+Starting to scan in: Cr2\Dark Acid Techno 2\Audio_MIDI\Drum Hits\Hats\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno 2\Audio_MIDI\Drum Hits\Kicks\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno 2\Audio_MIDI\Drum Hits\Percussion
+Starting to scan in: Cr2\Dark Acid Techno 2\Audio_MIDI\Drum Hits\Rides
+Starting to scan in: Cr2\Dark Acid Techno 2\Audio_MIDI\Drum Hits\Snares\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno 2\Audio_MIDI\Drum Loops\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno 2\Audio_MIDI\Full Combi Loops
+Starting to scan in: Cr2\Dark Acid Techno 2\Audio_MIDI\FX\Atmoshperic Loops
+Starting to scan in: Cr2\Dark Acid Techno 2\Audio_MIDI\FX\Downlifters
+Starting to scan in: Cr2\Dark Acid Techno 2\Audio_MIDI\FX\Noises
+Starting to scan in: Cr2\Dark Acid Techno 2\Audio_MIDI\FX\Uplifters
+Starting to scan in: Cr2\Dark Acid Techno 2\Audio_MIDI\Songstarters\Kit01_132_A\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno 2\Audio_MIDI\Songstarters\Kit01_132_A\Midi
+Starting to scan in: Cr2\Dark Acid Techno 2\Audio_MIDI\Songstarters\Kit02_128_C#\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno 2\Audio_MIDI\Songstarters\Kit02_128_C#\Midi
+Starting to scan in: Cr2\Dark Acid Techno 2\Audio_MIDI\Songstarters\Kit03_132_C\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno 2\Audio_MIDI\Songstarters\Kit03_132_C\Midi
+Starting to scan in: Cr2\Dark Acid Techno 2\Audio_MIDI\Songstarters\Kit04_125_G\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno 2\Audio_MIDI\Songstarters\Kit04_125_G\Midi
+Starting to scan in: Cr2\Dark Acid Techno 2\Audio_MIDI\Songstarters\Kit05_126_B\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno 2\Audio_MIDI\Songstarters\Kit05_126_B\Midi
+Starting to scan in: Cr2\Dark Acid Techno 2\Audio_MIDI\Songstarters\Kit06_132_D#\Ableton Folder Info
+Starting to scan in: Cr2\Dark Acid Techno 2\Audio_MIDI\Songstarters\Kit06_132_D#\Midi
+Starting to scan in: Cr2\Dark Acid Techno 2\Audio_MIDI\Synth Hits & Loops\Synth Hits
+Starting to scan in: Cr2\Dark Acid Techno 2\Audio_MIDI\Synth Hits & Loops\Synth Loops
+Starting to scan in: Cr2\Dark Acid Techno 2\Audio_MIDI\Synth Hits & Loops\Synth_MIDI
+Duplicates: Cr2\Dark Acid Techno 2\Audio_MIDI\Synth Hits & Loops\Synth_MIDI\DAT2_Synth_Loop_MIDI_16_Layer3_E.mid AND Cr2\Dark Acid Techno 2\Audio_MIDI\Synth Hits & Loops\Synth_MIDI\DAT2_Synth_Loop_MIDI_16_Layer4_E.mid
+Duplicates: Cr2\Dark Acid Techno 2\Audio_MIDI\Synth Hits & Loops\Synth_MIDI\DAT2_Synth_Loop_MIDI_15_Layer3_E.mid AND Cr2\Dark Acid Techno 2\Audio_MIDI\Synth Hits & Loops\Synth_MIDI\DAT2_Synth_Loop_MIDI_15_Layer6_E.mid AND Cr2\Dark Acid Techno 2\Audio_MIDI\Synth Hits & Loops\Synth_MIDI\DAT2_Synth_Loop_MIDI_15_Layer4_E.mid
+Duplicates: Cr2\Dark Acid Techno 2\Audio_MIDI\Synth Hits & Loops\Synth_MIDI\DAT2_Synth_Loop_MIDI_16_Layer2_E.mid AND Cr2\Dark Acid Techno 2\Audio_MIDI\Synth Hits & Loops\Synth_MIDI\DAT2_Synth_Loop_MIDI_16_Layer5_E.mid
+Duplicates: Cr2\Dark Acid Techno 2\Audio_MIDI\Synth Hits & Loops\Synth_MIDI\DAT2_Synth_Loop_MIDI_4_Layer1_F.mid AND Cr2\Dark Acid Techno 2\Audio_MIDI\Synth Hits & Loops\Synth_MIDI\DAT2_Synth_Loop_MIDI_4_Layer2_F.mid
+Duplicates: Cr2\Dark Acid Techno 2\Audio_MIDI\Synth Hits & Loops\Synth_MIDI\DAT2_Synth_Loop_MIDI_20_Layer3_D.mid AND Cr2\Dark Acid Techno 2\Audio_MIDI\Synth Hits & Loops\Synth_MIDI\DAT2_Synth_Loop_MIDI_20_Layer4_D.mid
+Duplicates: Cr2\Dark Acid Techno 2\Audio_MIDI\Synth Hits & Loops\Synth_MIDI\DAT2_Synth_Loop_MIDI_8_Layer2_E.mid AND Cr2\Dark Acid Techno 2\Audio_MIDI\Synth Hits & Loops\Synth_MIDI\DAT2_Synth_Loop_MIDI_8_Layer1_E.mid AND Cr2\Dark Acid Techno 2\Audio_MIDI\Synth Hits & Loops\Synth_MIDI\DAT2_Synth_Loop_MIDI_8_Layer3_E.mid
+Starting to scan in: Cr2\Dark Acid Techno 2\Demos
+Starting to scan in: Cr2\Dark Acid Techno 2\EXTRAS
+Starting to scan in: Cr2\Deep House Vol 3\Audio\Bass Hits\Ableton Folder Info
+Starting to scan in: Cr2\Deep House Vol 3\Audio\Bass Loops\MIDI
+Starting to scan in: Cr2\Deep House Vol 3\Audio\Drum Hits\Claps\Ableton Folder Info
+Starting to scan in: Cr2\Deep House Vol 3\Audio\Drum Hits\Hats\Ableton Folder Info
+Starting to scan in: Cr2\Deep House Vol 3\Audio\Drum Hits\Kicks\Ableton Folder Info
+Starting to scan in: Cr2\Deep House Vol 3\Audio\Drum Hits\Percs
+Starting to scan in: Cr2\Deep House Vol 3\Audio\Drum Loops\Ableton Folder Info
+Starting to scan in: Cr2\Deep House Vol 3\Audio\FX\Cymbals
+Starting to scan in: Cr2\Deep House Vol 3\Audio\FX\Downshifter
+Starting to scan in: Cr2\Deep House Vol 3\Audio\FX\Impacts
+Starting to scan in: Cr2\Deep House Vol 3\Audio\FX\Textures
+Starting to scan in: Cr2\Deep House Vol 3\Audio\FX\Uplifter
+Starting to scan in: Cr2\Deep House Vol 3\Audio\Piano Loops\Ableton Folder Info
+Starting to scan in: Cr2\Deep House Vol 3\Audio\Piano Loops\MIDI
+Starting to scan in: Cr2\Deep House Vol 3\Audio\Songstarters\Kit 1 [124 Fm]\Ableton Folder Info
+Starting to scan in: Cr2\Deep House Vol 3\Audio\Songstarters\Kit 1 [124 Fm]\MIDI
+Starting to scan in: Cr2\Deep House Vol 3\Audio\Songstarters\Kit 2 [124 Dm]\Ableton Folder Info
+Starting to scan in: Cr2\Deep House Vol 3\Audio\Songstarters\Kit 2 [124 Dm]\MIDI
+Starting to scan in: Cr2\Deep House Vol 3\Audio\Songstarters\Kit 3 [124 Am]\Ableton Folder Info
+Starting to scan in: Cr2\Deep House Vol 3\Audio\Songstarters\Kit 3 [124 Am]\MIDI
+Starting to scan in: Cr2\Deep House Vol 3\Audio\Songstarters\Kit 4 [124 D#m]\Ableton Folder Info
+Starting to scan in: Cr2\Deep House Vol 3\Audio\Songstarters\Kit 4 [124 D#m]\MIDI
+Starting to scan in: Cr2\Deep House Vol 3\Audio\Songstarters\Kit 5 [124 G#m]\Ableton Folder Info
+Starting to scan in: Cr2\Deep House Vol 3\Audio\Songstarters\Kit 5 [124 G#m]\MIDI
+Starting to scan in: Cr2\Deep House Vol 3\Audio\Songstarters\Kit 6 [124 C#m]\Ableton Folder Info
+Starting to scan in: Cr2\Deep House Vol 3\Audio\Songstarters\Kit 6 [124 C#m]\MIDI
+Starting to scan in: Cr2\Deep House Vol 3\Audio\Synth Hits
+Starting to scan in: Cr2\Deep House Vol 3\Audio\Synth Loops\MIDI
+Starting to scan in: Cymatics\2020 Melody Collection\Ableton Folder Info
+Starting to scan in: Cymatics\2020 Melody Collection\Loop Stems\Cymatics - 2020 Classic Melody Loop 1 - 90 BPM D Maj Stems\Ableton Folder Info
+Starting to scan in: Cymatics\2020 Melody Collection\Loop Stems\Cymatics - 2020 Classic Melody Loop 2 - 155 BPM D# Min Stems
+Starting to scan in: Cymatics\2020 Melody Collection\Loop Stems\Cymatics - 2020 Classic Melody Loop 3 - 160 BPM A Min Stems
+Starting to scan in: Cymatics\2020 Melody Collection\Loop Stems\Cymatics - 2020 Dark Melody Loop 1 - 83 BPM C Min Stems\Ableton Folder Info
+Starting to scan in: Cymatics\2020 Melody Collection\Loop Stems\Cymatics - 2020 Dark Melody Loop 11 - 170 BPM F# Min Stems\Ableton Folder Info
+Starting to scan in: Cymatics\2020 Melody Collection\Loop Stems\Cymatics - 2020 Dark Melody Loop 2 - 100 BPM G# Min Stems\Ableton Folder Info
+Starting to scan in: Cymatics\2020 Melody Collection\Loop Stems\Cymatics - 2020 Dark Melody Loop 4 - 128 BPM C Min Stems\Ableton Folder Info
+Starting to scan in: Cymatics\2020 Melody Collection\Loop Stems\Cymatics - 2020 Dark Melody Loop 5 - 139 BPM A Min Stems\Ableton Folder Info
+Starting to scan in: Cymatics\2020 Melody Collection\Loop Stems\Cymatics - 2020 Dark Melody Loop 6 - 152 BPM D Min Stems\Ableton Folder Info
+Starting to scan in: Cymatics\2020 Melody Collection\Loop Stems\Cymatics - 2020 Dark Melody Loop 8 - 156 BPM D# Min Stems
+Starting to scan in: Cymatics\2020 Melody Collection\Loop Stems\Cymatics - 2020 Lofi Melody Loop 1 - 80 BPM D# Min Stems\Ableton Folder Info
+Starting to scan in: Cymatics\2020 Melody Collection\Loop Stems\Cymatics - 2020 Lofi Melody Loop 2 - 90 BPM C Min Stems\Ableton Folder Info
+Starting to scan in: Cymatics\2020 Melody Collection\Loop Stems\Cymatics - 2020 Nostalgic Melody Loop 1 - 90 BPM E Min Stems
+Starting to scan in: Cymatics\2020 Melody Collection\Loop Stems\Cymatics - 2020 Nostalgic Melody Loop 11 - 160 BPM A# Maj Stems
+Starting to scan in: Cymatics\2020 Melody Collection\Loop Stems\Cymatics - 2020 Nostalgic Melody Loop 2 - 110 BPM A# Min Stems
+Starting to scan in: Cymatics\2020 Melody Collection\Loop Stems\Cymatics - 2020 Nostalgic Melody Loop 5 - 150 BPM C# Min Stems
+Starting to scan in: Cymatics\2020 Melody Collection\Loop Stems\Cymatics - 2020 Nostalgic Melody Loop 6 - 150 BPM E Min Stems\Ableton Folder Info
+Starting to scan in: Cymatics\2020 Melody Collection\Loop Stems\Cymatics - 2020 Nostalgic Melody Loop 8 - 160 BPM G Min Stems\Ableton Folder Info
+Starting to scan in: Cymatics\2020 Melody Collection\Loop Stems\Cymatics - 2020 Various Melody Loop 2 - 100 BPM A# Min Stems
+Starting to scan in: Cymatics\2020 Melody Collection\Loop Stems\Cymatics - 2020 Various Melody Loop 3 - 110 BPM G Min Stems
+Starting to scan in: Cymatics\2020 Melody Collection\Loop Stems\Cymatics - 2020 Various Melody Loop 4 - 130 BPM A Min Stems
+Starting to scan in: Cymatics\2020 Melody Collection\Loop Stems\Cymatics - 2020 Various Melody Loop 5 - 135 BPM C Min Stems\Ableton Folder Info
+Starting to scan in: Cymatics\2020 Melody Collection\Loop Stems\Cymatics - 2020 Various Melody Loop 6 - 145 BPM B Min Stems
+Starting to scan in: Cymatics\2020 Melody Collection\Loop Stems\Cymatics - 2020 Various Melody Loop 9 - 150 BPM F Min Stems
+Starting to scan in: Cymatics\Apex One Shots Vol 3\Ableton Folder Info
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Drum Loops
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Guitars\Loop Stems\Cymatics - California Roll - 80 BPM C Min
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Guitars\Loop Stems\Cymatics - Cascade - 80 BPM D Maj
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Guitars\Loop Stems\Cymatics - Cassette Love - 80 BPM B Min
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Guitars\Loop Stems\Cymatics - Ceremony - 90 BPM G Min
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Guitars\Loop Stems\Cymatics - Cinnamon - 75 BPM A# Min\Ableton Folder Info
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Guitars\Loop Stems\Cymatics - Coffee Shop - 80 BPM C# Maj
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Guitars\Loop Stems\Cymatics - Creek - 80 BPM B Maj
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Guitars\Loop Stems\Cymatics - Evening Walk - 90 BPM A# Maj
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Guitars\Loop Stems\Cymatics - Lonely - 73 BPM A Min
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Guitars\Loop Stems\Cymatics - Lovers - 73 BPM G Min
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Guitars\Loop Stems\Cymatics - Mocha Latte - 73 BPM C# Min
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Guitars\Loop Stems\Cymatics - Mount Fuji - 90 BPM G Min
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Guitars\Loop Stems\Cymatics - Naruto - 90 BPM E Maj
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Guitars\Loop Stems\Cymatics - Night Train - 80 BPM D Min
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Guitars\Loop Stems\Cymatics - Nomad - 145 BPM F# Min\Ableton Folder Info
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Guitars\Loop Stems\Cymatics - Old Friends - 87 BPM E Min
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Guitars\Loop Stems\Cymatics - Photographs - 73 BPM F Maj
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Guitars\Loop Stems\Cymatics - Rainy Day - 80 BPM A# Min
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Guitars\Loop Stems\Cymatics - Rush Hour - 70 BPM B Maj
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Guitars\Loop Stems\Cymatics - Scarlett - 90 BPM D# Maj
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Guitars\Loop Stems\Cymatics - Wonderful World - 73 BPM E Min
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Melodies\Loop Stems\Cymatics - Cityscapes - 83 BPM G Min
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Melodies\Loop Stems\Cymatics - Clouds - 80 BPM G Maj
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Melodies\Loop Stems\Cymatics - Dragonfruit - 70 BPM B Min\Ableton Folder Info
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Melodies\Loop Stems\Cymatics - Exclusve - 97 BPM C# Maj\Ableton Folder Info
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Melodies\Loop Stems\Cymatics - Lilac Fields - 73 BPM D# Min\Ableton Folder Info
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Melodies\Loop Stems\Cymatics - Morals - 107 BPM G# Maj\Ableton Folder Info
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Melodies\Loop Stems\Cymatics - Place - 82 BPM C Maj\Ableton Folder Info
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Melodies\Loop Stems\Cymatics - Reflections - 90 BPM B Min
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Melodies\Loop Stems\Cymatics - Trees - 72 BPM D Min\Ableton Folder Info
+Starting to scan in: Cymatics\Blossom Lofi Sample Pack\Percussion\Ableton Folder Info
+Starting to scan in: Cymatics\Cartel Hip Hop Drum Kit\Drum One Shots\808s\Ableton Folder Info
+Starting to scan in: Cymatics\Cartel Hip Hop Drum Kit\Drum One Shots\Claps\Ableton Folder Info
+Starting to scan in: Cymatics\Cartel Hip Hop Drum Kit\Drum One Shots\Crashes\Ableton Folder Info
+Starting to scan in: Cymatics\Cartel Hip Hop Drum Kit\Drum One Shots\Hihats - Closed
+Starting to scan in: Cymatics\Cartel Hip Hop Drum Kit\Drum One Shots\Hihats - Open
+Starting to scan in: Cymatics\Cartel Hip Hop Drum Kit\Drum One Shots\Kicks\Ableton Folder Info
+Starting to scan in: Cymatics\Cartel Hip Hop Drum Kit\Drum One Shots\Percussion\Ableton Folder Info
+Starting to scan in: Cymatics\Cartel Hip Hop Drum Kit\Drum One Shots\Rimshots\Ableton Folder Info
+Starting to scan in: Cymatics\Cartel Hip Hop Drum Kit\Drum One Shots\Shakers\Ableton Folder Info
+Starting to scan in: Cymatics\Cartel Hip Hop Drum Kit\Drum One Shots\Snaps\Ableton Folder Info
+Starting to scan in: Cymatics\Cartel Hip Hop Drum Kit\Drum One Shots\Snares\Ableton Folder Info
+Starting to scan in: Cymatics\Cartel Hip Hop Drum Kit\Drum One Shots\Vox
+Starting to scan in: Cymatics\Cobalt 808 Collection\Ableton Folder Info
+Starting to scan in: Cymatics\Cobra Hip Hop Sample Pack\808s\Ableton Folder Info
+Starting to scan in: Cymatics\Cobra Hip Hop Sample Pack\Drum Loops\Full Drum Loops
+Starting to scan in: Cymatics\Cobra Hip Hop Sample Pack\Drum Loops\Hihat Loops
+Starting to scan in: Cymatics\Cobra Hip Hop Sample Pack\Drum Loops\Percussion Loops
+Starting to scan in: Cymatics\Cobra Hip Hop Sample Pack\Drum Loops\Top Drum Loops
+Starting to scan in: Cymatics\Cobra Hip Hop Sample Pack\Drum One Shots\Claps\Ableton Folder Info
+Starting to scan in: Cymatics\Cobra Hip Hop Sample Pack\Drum One Shots\Cymbals\Crashes\Ableton Folder Info
+Starting to scan in: Cymatics\Cobra Hip Hop Sample Pack\Drum One Shots\Cymbals\Hihats - Closed\Ableton Folder Info
+Starting to scan in: Cymatics\Cobra Hip Hop Sample Pack\Drum One Shots\Cymbals\Hihats - Open
+Starting to scan in: Cymatics\Cobra Hip Hop Sample Pack\Drum One Shots\Cymbals\Rides
+Starting to scan in: Cymatics\Cobra Hip Hop Sample Pack\Drum One Shots\Kicks\Ableton Folder Info
+Starting to scan in: Cymatics\Cobra Hip Hop Sample Pack\Drum One Shots\Percussion
+Starting to scan in: Cymatics\Cobra Hip Hop Sample Pack\Drum One Shots\Snaps\Ableton Folder Info
+Starting to scan in: Cymatics\Cobra Hip Hop Sample Pack\Drum One Shots\Snares\Chop Snares\Ableton Folder Info
+Starting to scan in: Cymatics\Cobra Hip Hop Sample Pack\Drum One Shots\Snares\Rimshot Snares\Ableton Folder Info
+Starting to scan in: Cymatics\Cobra Hip Hop Sample Pack\FX\Background Ambience
+Starting to scan in: Cymatics\Cobra Hip Hop Sample Pack\FX\Reverse FX
+Starting to scan in: Cymatics\Cobra Hip Hop Sample Pack\FX\Various FX
+Starting to scan in: Cymatics\Cobra Hip Hop Sample Pack\Melodics\Instrument Loops\Flutes\Dry
+Starting to scan in: Cymatics\Cobra Hip Hop Sample Pack\Melodics\Instrument Loops\Flutes\Processed
+Starting to scan in: Cymatics\Cobra Hip Hop Sample Pack\Melodics\Instrument Loops\Guitars\Dry
+Starting to scan in: Cymatics\Cobra Hip Hop Sample Pack\Melodics\Instrument Loops\Guitars\Processed
+Starting to scan in: Cymatics\Cobra Hip Hop Sample Pack\Melodics\Melody Loops
+Starting to scan in: Cymatics\Cobra Hip Hop Sample Pack\MIDI\Essential Chord MIDI
+Starting to scan in: Cymatics\Cobra Hip Hop Sample Pack\MIDI\Hihat MIDI
+Starting to scan in: Cymatics\Cobra Hip Hop Sample Pack\MIDI\Melody MIDI
+Starting to scan in: Cymatics\Cymatics - Thunder 808 Kit\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics - Trap and 808s Premium\Cymatics - Trap and 808s Premium Sample Library_Drums - Loops_Full Drum Loops\Cymatics - Trap and 808s Premium Sample Library\Drums - Loops\Full Drum Loops
+Starting to scan in: Cymatics\Cymatics - Trap and 808s Premium\Cymatics - Trap and 808s Premium Sample Library_Drums - Loops_Hihat Loops\Cymatics - Trap and 808s Premium Sample Library\Drums - Loops\Hihat Loops
+Starting to scan in: Cymatics\Cymatics - Trap and 808s Premium\Cymatics - Trap and 808s Premium Sample Library_Drums - Loops_Percussion Loops\Cymatics - Trap and 808s Premium Sample Library\Drums - Loops\Percussion Loops
+Starting to scan in: Cymatics\Cymatics - Trap and 808s Premium\Cymatics - Trap and 808s Premium Sample Library_Drums - Loops_Snare Fills\Cymatics - Trap and 808s Premium Sample Library\Drums - Loops\Snare Fills
+Starting to scan in: Cymatics\Cymatics - Trap and 808s Premium\Cymatics - Trap and 808s Premium Sample Library_Drums - Loops_Top Drum Loops\Cymatics - Trap and 808s Premium Sample Library\Drums - Loops\Top Drum Loops
+Starting to scan in: Cymatics\Cymatics - Trap and 808s Premium\Cymatics - Trap and 808s Premium Sample Library_Drums - One Shots_808s\Cymatics - Trap and 808s Premium Sample Library\Drums - One Shots\808s
+Starting to scan in: Cymatics\Cymatics - Trap and 808s Premium\Cymatics - Trap and 808s Premium Sample Library_Drums - One Shots_Claps\Cymatics - Trap and 808s Premium Sample Library\Drums - One Shots\Claps
+Starting to scan in: Cymatics\Cymatics - Trap and 808s Premium\Cymatics - Trap and 808s Premium Sample Library_Drums - One Shots_Cymbals_Crashes\Cymatics - Trap and 808s Premium Sample Library\Drums - One Shots\Cymbals\Crashes
+Duplicates: Cymatics\Cymatics - Trap and 808s Premium\Cymatics - Trap and 808s Premium Sample Library_Drums - One Shots_Cymbals_Crashes\Cymatics - Trap and 808s Premium Sample Library\Drums - One Shots\Cymbals\Crashes\Cymatics - Trap & 808s Crash 1.wav AND Cymatics\Cymatics - Trap and 808s Premium\Cymatics - Trap and 808s Premium Sample Library_Drums - One Shots_Cymbals_Crashes\Cymatics - Trap and 808s Premium Sample Library\Drums - One Shots\Cymbals\Crashes\Cymatics - Trap & 808s Crash 5.wav
+Starting to scan in: Cymatics\Cymatics - Trap and 808s Premium\Cymatics - Trap and 808s Premium Sample Library_Drums - One Shots_Cymbals_Hihats - Closed\Cymatics - Trap and 808s Premium Sample Library\Drums - One Shots\Cymbals\Hihats - Closed
+Starting to scan in: Cymatics\Cymatics - Trap and 808s Premium\Cymatics - Trap and 808s Premium Sample Library_Drums - One Shots_Cymbals_Hihats - Open\Cymatics - Trap and 808s Premium Sample Library\Drums - One Shots\Cymbals\Hihats - Open
+Starting to scan in: Cymatics\Cymatics - Trap and 808s Premium\Cymatics - Trap and 808s Premium Sample Library_Drums - One Shots_Cymbals_Rides\Cymatics - Trap and 808s Premium Sample Library\Drums - One Shots\Cymbals\Rides
+Starting to scan in: Cymatics\Cymatics - Trap and 808s Premium\Cymatics - Trap and 808s Premium Sample Library_Drums - One Shots_Kicks\Cymatics - Trap and 808s Premium Sample Library\Drums - One Shots\Kicks
+Starting to scan in: Cymatics\Cymatics - Trap and 808s Premium\Cymatics - Trap and 808s Premium Sample Library_Drums - One Shots_Percussion\Cymatics - Trap and 808s Premium Sample Library\Drums - One Shots\Percussion
+Starting to scan in: Cymatics\Cymatics - Trap and 808s Premium\Cymatics - Trap and 808s Premium Sample Library_Drums - One Shots_Snares\Cymatics - Trap and 808s Premium Sample Library\Drums - One Shots\Snares
+Starting to scan in: Cymatics\Cymatics - Trap and 808s Premium\Cymatics - Trap and 808s Premium Sample Library_FX_Ambience\Cymatics - Trap and 808s Premium Sample Library\FX\Ambience
+Starting to scan in: Cymatics\Cymatics - Trap and 808s Premium\Cymatics - Trap and 808s Premium Sample Library_FX_Various FX\Cymatics - Trap and 808s Premium Sample Library\FX\Various FX
+Starting to scan in: Cymatics\Cymatics - Trap and 808s Premium\Cymatics - Trap and 808s Premium Sample Library_Instrument Loops_Brass Loops\Cymatics - Trap and 808s Premium Sample Library\Instrument Loops\Brass Loops
+Starting to scan in: Cymatics\Cymatics - Trap and 808s Premium\Cymatics - Trap and 808s Premium Sample Library_Instrument Loops_Guitar Loops_Acoustic\Cymatics - Trap and 808s Premium Sample Library\Instrument Loops\Guitar Loops\Acoustic
+Starting to scan in: Cymatics\Cymatics - Trap and 808s Premium\Cymatics - Trap and 808s Premium Sample Library_Instrument Loops_Guitar Loops_Electric\Cymatics - Trap and 808s Premium Sample Library\Instrument Loops\Guitar Loops\Electric
+Starting to scan in: Cymatics\Cymatics - Trap and 808s Premium\Cymatics - Trap and 808s Premium Sample Library_Instrument Loops_Piano Loops\Cymatics - Trap and 808s Premium Sample Library\Instrument Loops\Piano Loops
+Starting to scan in: Cymatics\Cymatics - Trap and 808s Premium\Cymatics - Trap and 808s Premium Sample Library_Instrument Loops_String Loops\Cymatics - Trap and 808s Premium Sample Library\Instrument Loops\String Loops
+Starting to scan in: Cymatics\Cymatics - Trap and 808s Premium\Cymatics - Trap and 808s Premium Sample Library_Melody Loops\Cymatics - Trap and 808s Premium Sample Library\Melody Loops
+Starting to scan in: Cymatics\Cymatics - Trap and 808s Premium\Cymatics - Trap and 808s Premium Sample Library_Synth Loops\Cymatics - Trap and 808s Premium Sample Library\Synth Loops
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\2023 FX Samples\Arps
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\2023 FX Samples\Impacts
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\2023 FX Samples\Reverse
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\2023 FX Samples\Various\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\2023 FX Samples\Vocal
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Alchemy Premium Bass Collection\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Alchemy Premium Instrument Collection\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Alchemy Premium Melody Enhancers\Accents
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Alchemy Premium Melody Enhancers\Phrases
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Alchemy Premium Melody Enhancers\Vocals
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Alchemy Premium MIDI Collection\Dark
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Alchemy Premium MIDI Collection\Lush
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Alchemy Premium MIDI Collection\Sad & Nostalgic
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Alchemy Premium MIDI Collection\Triumphant
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Alchemy Premium MIDI Collection\Various
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Alchemy Premium MIDI Collection\Wavy
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Alchemy Premium Percussion\Loops
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Alchemy Premium Percussion\One Shots
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Alchemy Premium Textures & FX
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Anarchy MIDI Collection
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Aquarius Vocal Samples
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Astral MIDI Collection
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Aura Trapsoul Vocal Chops
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Chroma Synth One Shots\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Enigma MIDI Collection
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Euphoria Vocal Sample Pack\Acapella
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Euphoria Vocal Sample Pack\Ad Libs\Dry
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Euphoria Vocal Sample Pack\Ad Libs\Wet
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Euphoria Vocal Sample Pack\Chants\Dry
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Euphoria Vocal Sample Pack\Chants\Processed
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Euphoria Vocal Sample Pack\Pre-Drop Vocals\Dry
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Euphoria Vocal Sample Pack\Pre-Drop Vocals\Processed
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Euphoria Vocal Sample Pack\Sung Phrases\Dry
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Euphoria Vocal Sample Pack\Sung Phrases\Wet
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Euphoria Vocal Sample Pack\Tonal One Shots\Dry
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Euphoria Vocal Sample Pack\Tonal One Shots\Wet
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Euphoria Vocal Sample Pack\Vocal Chops
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Euphoria Vocal Sample Pack\Vocal FX
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Euphoria Vocal Sample Pack\Vocal Phrases\Dry
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Euphoria Vocal Sample Pack\Vocal Phrases\Processed
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Euphoria Vocal Sample Pack\Vocal Phrases\Wet
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Legends Synth One Shot Library Pt. 1\ARP 2600\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Legends Synth One Shot Library Pt. 1\ARP Odyssey
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Legends Synth One Shot Library Pt. 1\Ensoniq ESQ-1\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Legends Synth One Shot Library Pt. 1\Korg DW-8000\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Legends Synth One Shot Library Pt. 1\Korg M1\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Legends Synth One Shot Library Pt. 1\Korg Poly-800
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Legends Synth One Shot Library Pt. 1\Korg Prologue\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Legends Synth One Shot Library Pt. 2\Korg Wavestation\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Legends Synth One Shot Library Pt. 2\Moog Matriarch\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Legends Synth One Shot Library Pt. 2\Moog Memorymoog\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Legends Synth One Shot Library Pt. 2\Moog Model D\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Legends Synth One Shot Library Pt. 2\Moog Sub Phatty\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Legends Synth One Shot Library Pt. 2\Moog Voyager
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Legends Synth One Shot Library Pt. 2\Oberheim OB-8\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Legends Synth One Shot Library Pt. 3\Oberheim OB-X\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Legends Synth One Shot Library Pt. 3\Prophet 5\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Legends Synth One Shot Library Pt. 3\Prophet 6\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Legends Synth One Shot Library Pt. 3\Prophet 600
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Legends Synth One Shot Library Pt. 3\Prophet Rev2\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Legends Synth One Shot Library Pt. 3\Roland JD-800\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Legends Synth One Shot Library Pt. 4\Roland Juno-106\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Legends Synth One Shot Library Pt. 4\Roland Juno-60\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Legends Synth One Shot Library Pt. 4\Roland Jupiter-6\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Legends Synth One Shot Library Pt. 4\Roland Jupiter-8\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Legends Synth One Shot Library Pt. 4\Roland JX-8P\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Legends Synth One Shot Library Pt. 4\Yamaha DX7\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Mirage Lofi One Shot Collection\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Mirage Vocal Samples\Ad-Libs\Dry
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Mirage Vocal Samples\Ad-Libs\Wet
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Mirage Vocal Samples\Vocal Chop Loops
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Orion MIDI Collection
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Platinum One Shot Collection\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Pressure FX Sample Pack\Reverse FX\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Pressure FX Sample Pack\Tonal FX
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Pressure FX Sample Pack\Various FX
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Pressure FX Sample Pack\Vocal FX
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Pyramid FX\Impacts\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Pyramid FX\Noise
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Pyramid FX\Percussive Textures\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Pyramid FX\Reverse - Cymbals
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Pyramid FX\Reverse - Impacts
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Pyramid FX\Reverse - Tonal\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Pyramid FX\Risers
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Pyramid FX\Synth FX
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Pyramid FX\Tonal Ambience
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Pyramid FX\Various FX\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Pyramid FX\White Noise - Down
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Pyramid FX\White Noise - Up
+Duplicates: Cymatics\Cymatics Alchemy - Launch Edition\Pyramid FX\White Noise - Up\Cymatics - Wassup White Noise Up.wav AND Cymatics\Cymatics Alchemy - Launch Edition\Pyramid FX\White Noise - Up\Cymatics - Zero White Noise Up - 100 BPM.wav
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Shimmer FX Sample Pack\Impacts\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Shimmer FX Sample Pack\Noise\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Shimmer FX Sample Pack\Reverse - Cymbals\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Shimmer FX Sample Pack\Reverse - Impacts
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Shimmer FX Sample Pack\Reverse - Tonal
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Shimmer FX Sample Pack\Risers
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Shimmer FX Sample Pack\Synth FX\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Shimmer FX Sample Pack\Tonal Ambience\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Shimmer FX Sample Pack\Various FX
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Shimmer FX Sample Pack\White Noise - Down
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Shimmer FX Sample Pack\White Noise - Up
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Surge One Shots Collection\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Textures FX & Ambience\Atmospheres\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Textures FX & Ambience\Live Recordings
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Textures FX & Ambience\Noise
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Textures FX & Ambience\Various
+Starting to scan in: Cymatics\Cymatics Alchemy - Launch Edition\Visions MIDI Collection
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Ambient Melodies\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Ambient Melodies\Stems\Cymatics - Alone Forever - 151 BPM D Min
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Ambient Melodies\Stems\Cymatics - Benediction - 150 BPM E Min\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Ambient Melodies\Stems\Cymatics - Chasing Sunsets - 168 BPM D# Min\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Ambient Melodies\Stems\Cymatics - Clouds - 126 BPM D Min\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Ambient Melodies\Stems\Cymatics - Dark Knight - 120 BPM A Min\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Ambient Melodies\Stems\Cymatics - Destiny - 100 BPM F# Min\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Ambient Melodies\Stems\Cymatics - Divine Beings - 138 BPM D# Min\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Ambient Melodies\Stems\Cymatics - Elevate - 115 BPM F# Min\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Ambient Melodies\Stems\Cymatics - Fallen Angel - 95 BPM F# Min\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Ambient Melodies\Stems\Cymatics - Flight - 79 BPM D# Min\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Ambient Melodies\Stems\Cymatics - Fractals - 152 BPM D Min
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Ambient Melodies\Stems\Cymatics - Hearts - 74 BPM F Min\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Ambient Melodies\Stems\Cymatics - Liminal - 142 BPM G Min\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Ambient Melodies\Stems\Cymatics - Linear Path - 142 BPM D Min\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Ambient Melodies\Stems\Cymatics - Lost In A Dream - 160 BPM G Min\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Ambient Melodies\Stems\Cymatics - Marble - 156 BPM F# Min
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Ambient Melodies\Stems\Cymatics - Mosaic - 146 BPM A Min\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Ambient Melodies\Stems\Cymatics - Nights - 132 BPM D Min\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Ambient Melodies\Stems\Cymatics - Passion Crimes - 154 BPM E Min\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Ambient Melodies\Stems\Cymatics - Puffer - 156 BPM C Min\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Ambient Melodies\Stems\Cymatics - Sensory Deprivation - 150 BPM A# Min\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Ambient Melodies\Stems\Cymatics - Spirit Elves - 165 BPM E Min\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Ambient Melodies\Stems\Cymatics - Still Life - 152 BPM A# Min\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Ambient Melodies\Stems\Cymatics - True Desire - 168 BPM E Min\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Ambient Melodies\Stems\Cymatics - Venice - 112 BPM G# Min\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Archangel Vocal Loops (BONUS)
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Basses\808s\Ableton Folder Info
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Basses\Donk
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Basses\Reeses
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Brass Melodies\Stems\Cymatics - About Now - 112 BPM A Min
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Brass Melodies\Stems\Cymatics - Ammo - 115 BPM G Min
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Brass Melodies\Stems\Cymatics - Ancestry - 120 BPM D Min
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Brass Melodies\Stems\Cymatics - Ascent - 121 BPM E Min
+Starting to scan in: Cymatics\Cymatics Immortal Production Suite\Cymatics - Brass Melodies\Stems\Cymatics - Avenge - 125 BPM D Min
