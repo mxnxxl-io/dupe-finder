@@ -91,7 +91,7 @@ fn find_duplicates_in_directory(directory: &PathBuf) -> io::Result<HashMap<Strin
 /// A `Result` indicating success (`Ok`) or an error (`Err`).
 fn scan_directories(root_directory: PathBuf, log_file: &mut File) -> io::Result<()> {
     // Convert the root directory PathBuf to a string slice for easier manipulation and comparison.
-    let root_directory_str = root_directory.to_str().unwrap();
+    //let root_directory_str = root_directory.to_str().unwrap();
 
     for entry in WalkDir::new(&root_directory)
         .into_iter()
@@ -100,33 +100,47 @@ fn scan_directories(root_directory: PathBuf, log_file: &mut File) -> io::Result<
         let entry = entry?;
 
         if is_leaf_directory(&entry) {
-            let path_str = entry.path().to_str().unwrap();
-            let display_path = path_str
-                .strip_prefix(root_directory_str)
-                .unwrap_or(path_str)
-                .trim_start_matches('\\');
-
-            let scan_message = format!("Starting to scan in: {}", display_path);
-            writeln!(log_file, "{}", scan_message)?;
-            println!("{}", scan_message.blue());
+            // Previously: Code to write "Starting to scan in:" - now removed or commented out
 
             let duplicates = find_duplicates_in_directory(&entry.path().to_path_buf())?;
 
             for (_hash, paths) in duplicates {
                 if paths.len() > 1 {
-                    let paths_str: Vec<String> = paths
+                    // Find the common folder path before the file names
+                    let mut common_folder = paths[0].parent().unwrap().to_path_buf();
+                    for path in &paths[1..] {
+                        while !path.starts_with(&common_folder) {
+                            common_folder = common_folder.parent().unwrap().to_path_buf();
+                        }
+                    }
+
+                    // Get the last 3 segments of the common folder path
+                    let common_folder_display = common_folder
+                        .to_str()
+                        .unwrap()
+                        .split('\\')
+                        .rev()
+                        .take(3)
+                        .collect::<Vec<_>>()
+                        .into_iter()
+                        .rev()
+                        .collect::<Vec<_>>()
+                        .join("\\");
+
+                    // Get file names
+                    let file_names: Vec<String> = paths
                         .iter()
-                        .map(|path| {
-                            let path_str = path.to_str().unwrap();
-                            let display_path = path_str
-                                .strip_prefix(root_directory_str)
-                                .unwrap_or(path_str)
-                                .trim_start_matches('\\');
-                            display_path.to_string()
-                        })
+                        .map(|path| path.file_name().unwrap().to_str().unwrap().to_string())
                         .collect();
 
-                    let duplicates_message = format!("Duplicates: {}", paths_str.join(" AND "));
+                    // Format the message
+                    let duplicates_message = format!(
+                        "Duplicates found\nfolder: {}\nfiles: {}",
+                        common_folder_display,
+                        file_names.join(" and ")
+                    );
+
+                    // Write to log and print
                     writeln!(log_file, "{}", duplicates_message)?;
                     println!("{}", duplicates_message.red());
                 }
@@ -150,12 +164,8 @@ fn main() -> io::Result<()> {
     let mut log_file = File::create(log_file_path)?;
 
     // Log the start of the scanning process.
-    writeln!(
-        log_file,
-        "Starting to scan in rootDirectory: {:?}",
-        root_directory
-    )?;
-    println!("Starting to scan in rootDirectory: {:?}", root_directory);
+    println!("Starting to scan...");
+    writeln!(log_file, "Starting to scan...")?;
 
     // Begin scanning directories for duplicates, logging the findings.
     scan_directories(root_directory, &mut log_file)?;
